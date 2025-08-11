@@ -1,5 +1,5 @@
-# Eventos
-Projeto API Rest usando Java Spring integrado ao microservice Date 
+# Gerenciamento
+Api Rest project using Java Spring/ microservice Date 
 
 ## Usage
 1. Start the application with Maven
@@ -19,5 +19,8 @@ DELETE /product/{id} - Inactivate data.
 ```
 
 ## Database
-PostgresSQL as the database. The necessary database migrations are managed using Flyway.
+PostgresSQL as the database.
+
+## Container
+Docker
 
